@@ -9,8 +9,8 @@ Make the following changes (1.5pts):
 * Copy the file template.html
 * Rename the copy to yourlastname.html
 * Update the content to include your information
-* Add a picture of yourself to images/
-* Be sure to update the <img> in yourlastname.html to point to that new photo
+* Add a picture of yourself (or of an animal you like) to images/
+* Be sure to update the `<img>` in yourlastname.html to point to that new photo
 
 In git (5 pts)
 * add your changes
