@@ -5,7 +5,7 @@ Due: June 8th, 10pm | 7.5%
 
 Please read all the instructions before starting!
 
-Clone this repository
+Fork this repository. Once complete clone your forked version to your desktop.
 
 ### Make the following changes (2.5pts):
 
